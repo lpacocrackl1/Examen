@@ -1,0 +1,149 @@
+.navbar{
+    background-color:#4c4949;
+    margin-top: 15px;
+}               
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: white ;
+}
+.navbar-brand{
+    color: white;
+}
+body{
+    background-color: #F9C989;
+}
+
+
+#ing2{
+    width: 711.004px;
+height: 460px;
+width: 355.347px;
+height: 460px;
+margin: 50px;
+}
+
+#ing1{
+    width: 711.004px;
+height: 460px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+#envia{
+    width: 549px;
+height: 51px;
+flex-shrink: 0;
+    border-radius: 10px;
+    background: #157347;
+    
+}
+
+#reset{
+    width: 549px;
+height: 51px;
+flex-shrink: 0;
+    border-radius: 10px;
+    background: #BBACAC;
+}
+
+table{
+    background-color:#000;
+    width: 760px;
+height: 186.667px;
+}
+
+
+
+.form{
+    width: 549px;
+height: 585px;
+border: 50px;
+text-align: left;
+}
+
+.win{
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.prueba26{
+    text-align: left;
+}
+
+#table-dark{
+    background-color: #000;
+}
+#guardado{
+margin-bottom: 20px;
+background-color: #157347;
+width: 400px;
+}
+#limpiado{
+background-color: #BBACAC;
+width: 400px;
+}
+
+#Shrek{
+    width: 300px;
+height: 375px;
+}
+
+#Tortuga{
+    width: 300px;
+height: 450px;
+}
+
+#Respa{
+    width: 300px;
+height: 450px;
+}
+
+#beet{
+    width: 300px;
+height: 450px;
+}
+
+#Toña{
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+#Prueba1{
+    color: #000;
+text-align: left;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+#Final1{
+    width: 100px;
+height: 129.451px;
+}
+
+#Final2{
+    width: 100px;
+height: 100px;
+}
+
+#Final3{
+    width: 109.056px;
+height: 109.056px;
+flex-shrink: 0;
+}
